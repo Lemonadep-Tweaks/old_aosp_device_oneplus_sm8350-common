@@ -35,6 +35,9 @@ $(call inherit-product, vendor/oneplus/extras/OnePlus-fwk.mk)
 # Inherit WfdCommon from vendor/oneplus/extras
 $(call inherit-product, vendor/oneplus/extras/WfdCommon.mk)
 
+# Inherit PixelLauncher Icons from PixelExperince
+$(call inherit-product, packages/overlays/ThemeIcons/config.mk)
+
 # Additional native libraries
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/misc/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt
