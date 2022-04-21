@@ -301,6 +301,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     DeviceSettings
 
+# Repainter integration
+PRODUCT_PACKAGES += \
+    RepainterServicePriv \
+
 # Dolby
 PRODUCT_PACKAGES += \
     OPSoundTunerOverlay
