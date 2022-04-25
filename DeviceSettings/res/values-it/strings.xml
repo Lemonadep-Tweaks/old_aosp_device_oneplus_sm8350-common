@@ -32,12 +32,6 @@
     <string name="tile_hbm_mode">Alta luminosità</string>
     <string name="dc_mode_summary">Diminuisci la retroilluminazione regolando la corrente CC disegnata sul display</string>
     <string name="dc_mode_title">DC Dimming automatico</string>
-    <!-- Dolby -->
-    <string name="dolby_category">Dolby</string>
-    <string name="enable_dolby_title">Dolby Atmos</string>
-    <string name="enable_dolby_summary">Switching requires a reboot to take effect</string>
-    <string name="dolby_title">Configurazione</string>
-    <string name="dolby_summary">Configura l\'uscita audio in base al contenuto multimediale</string>
     <!-- Doze -->
     <string name="doze_panel_title">Doze</string>
     <string name="ambient_display_gestures_title">Gesti Ambient Display</string>
